@@ -4,7 +4,7 @@
 
 <br><br>
 <p align="center">Send a magic packet by</p>
-<p align="center"><img src="POST.png" align="top"/>&nbsp;&nbsp;&nbsp;<b>/rise/{mac}</b></p>
+<p align="center"><img src="docs/POST.png" align="top"/>&nbsp;&nbsp;&nbsp;<b>/rise/{mac}</b></p>
 <p align="center"><i>It's as easy as that!</i></p>
 <br><br>
 
